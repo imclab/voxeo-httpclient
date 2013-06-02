@@ -1,0 +1,9 @@
+The original source was modified as follows:
+
+1. Moved the entire source into a "com.innovation" package.
+
+2. Added a PURGE method.
+
+3. Added a timeout directly to the socket which seems more reliable than the original method.
+
+All other files (0COPYRIGHT, 0README, 'alt' directory, etc) have been left intact.
